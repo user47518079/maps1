@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://rob-n-tree.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map https://github.com/Rob-n-tree/maps1/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1sEbItdAz1OXv1F5TFaPH2E7OX-FHFQSYWHyDm-2uQwQ/edit#gid=0
 
 ## Create your own
